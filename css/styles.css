@@ -1,0 +1,16 @@
+h2.intro {
+  color:blue;
+  font-size:90%;
+  font-style: oblique;
+  text-align: center;
+}
+
+p.intro {
+  font-style: oblique;
+  color:#777;
+  text-align: center;
+}
+
+img.intro {
+  border-radius:30px;
+}
