@@ -1,16 +1,22 @@
-h2.intro {
+.intro {
+  font-style: oblique;
+  text-align: center;
+}
+
+.intro h2 {
   color:blue;
   font-size:90%;
-  font-style: oblique;
-  text-align: center;
 }
 
-p.intro {
-  font-style: oblique;
+.intro p {
   color:#777;
-  text-align: center;
 }
 
-img.intro {
+.intro img {
   border-radius:30px;
+}
+.intro * span, .test  {
+font-weight: bold;
+font-style: italic;
+color: red;
 }
