@@ -2,21 +2,18 @@
   font-style: oblique;
   text-align: center;
 }
-
 .intro h2 {
   color:blue;
   font-size:90%;
 }
-
 .intro p {
   color:#777;
 }
-
 .intro img {
   border-radius:30px;
 }
 .intro * span, .test  {
-font-weight: bold;
-font-style: italic;
-color: red;
+  font-weight: bold;
+  font-style: italic;
+  color: red;
 }
