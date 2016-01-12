@@ -17,3 +17,8 @@
   font-style: italic;
   color: red;
 }
+.highlight {
+  border:10px solid blue;
+  border-radius: 10px;
+  background: rgba(255,255,0,.5);
+}
